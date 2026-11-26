@@ -1,0 +1,23 @@
+{
+  "repo": "lastpass-password-vault-edition",
+  "product": "LastPass Password Vault Edition",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "lastpass-password-vault",
+    "lastpass-password",
+    "password-manager",
+    "how-to-install-lastpass-password",
+    "how-to-setup-lastpass-password",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "lastpass-vault"
+  ],
+  "site": "unaflore.co",
+  "product_title": "LastPass Password Vault Edition"
+}
